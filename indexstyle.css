@@ -1,0 +1,46 @@
+.box1 {
+  background-image: url(./images/background-stars.jpg);
+  color: white;
+  margin: 15px;
+  border: 1px dashed darkgreen;
+}
+
+.box2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 15px;
+  border: 1px dashed darkgreen;
+}
+
+.box3 {
+  border: thin 2px blue;
+  color: white;
+  background-color: grey;
+  margin: 15px;
+}
+
+.box4 {
+  text-transform: uppercase;
+  margin: 15px;
+  border: 1px dashed darkgreen;
+}
+
+.box5 {
+  opacity: 50;
+  margin: 15px;
+  border: 1px dashed darkgreen;
+}
+
+.box6 {
+  padding: 15px;
+  border: 2px solid cyan;
+  margin: 15px;
+}
+
+#project0 {
+  text-align: center;
+  color: #aa111c;
+  /* color used at work */
+  margin: auto;
+}
+
+/*# sourceMappingURL=indexstyle.css.map */
