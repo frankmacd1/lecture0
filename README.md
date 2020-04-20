@@ -5,7 +5,7 @@ Web Programming with Python and JavaScript
 
 Rubric
 
-
+    
 
 Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
 
